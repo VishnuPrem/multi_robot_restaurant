@@ -1,6 +1,6 @@
 # Multi-Robot Waiter System for Restaurant Automation
 
-Modified full planning and control stack for GRASP LML Service Robots @ Penn with restaurant system specific changes.
+High level task allocation and planning system for automated food delivery in restaurants.
 
 [![Build Status](https://travis-ci.com/kylevedder/ServiceRobotControlStack.svg?branch=master)](https://travis-ci.com/kylevedder/ServiceRobotControlStack)
 
